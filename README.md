@@ -108,7 +108,6 @@ SUPABASE_URL=your_project_url here
 SUPABASE_KEy=your_anon_key_here
 
 
-
 ### 5.Run the Application
 
 ## Streamlit Frontend
