@@ -97,7 +97,7 @@ CREATE TABLE notes (
 );
 
 ```
-3. **Get Your Credentials:
+3. **Get Your Credentials:**
 
 ### 4. Configure Environment variables
 
